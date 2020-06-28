@@ -41,3 +41,8 @@ factory = get_factory(1) # 0 or 1
 print(factory.create_drink())
 print(factory.create_food())
 ```
+
+```
+Pepsi
+Cheeseburger
+```
