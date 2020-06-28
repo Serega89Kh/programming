@@ -32,7 +32,7 @@ plt.hist(), plt.hist2d(), plt.hlines | гистограмма
 plt.pie() | круговая диаграмма
 plt.boxplot() | "ящик с усами" (boxwhisker)
 plt.errorbar() | оценка погрешности, "усы"
-plt.contour() - изолинии;
+plt.contour() | изолинии;
 plt.contourf() | изолинии с послойной окраской
 plt.pcolor(), plt.pcolormesh() | псевдоцветное изображение матрицы (2D массива)
 plt.imshow() | вставка графики (пиксели + сглаживание)
