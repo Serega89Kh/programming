@@ -98,7 +98,7 @@
 
 Тема 3. Введение в ООА, шаблоны проектирования
 
-* <a href="">ИСР</a> -
+* <a href="https://github.com/Serega89Kh/programming/blob/master/ISR53.md">ИСР</a>
 
 * <a href="https://github.com/Serega89Kh/programming/blob/master/VSR53.md">ВСР</a>
 
@@ -108,8 +108,6 @@
 
 * <a href="">ВСР</a> -
 
-* <a href="">ЛР14</a> -
-
 ### 6 семестр
 
 Тема 1. Пакеты для научных вычислений (Scikit-learn, Pandas, Numpy)
@@ -118,19 +116,7 @@
 
 * <a href="">ВСР</a> -
 
-* <a href="">ЛР1</a> -
-
-* <a href="">ЛР2</a> -
-
-* <a href="">ЛР3</a> -
-
-* <a href="">ЛР4</a> -
-
-* <a href="">ЛР5</a> -
-
 Тема 2. Генераторы в Python. Корутины, сопрограммы
-
-* <a href="">ЛР6</a> -
 
 * <a href="">ИСР</a> -
 
