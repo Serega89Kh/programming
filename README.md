@@ -82,9 +82,13 @@
 
 * <a href="https://github.com/Serega89Kh/programming/blob/master/ISR511.md">ИСР1</a>
 
-* <a href="">ВСР</a> -
+* <a href="https://repl.it/@Serega89Kh/ISR512">ИСР2</a>
 
-* <a href="">ЛР1,2</a> -
+* <a href="https://github.com/Serega89Kh/programming/blob/master/VSR51.md">ВСР</a>
+
+* <a href="https://github.com/Serega89Kh/programming/blob/master/VSR51.html">ВСР(html)</a>
+
+* <a href="https://github.com/Serega89Kh/programming/blob/master/VSR51.pdf">ВСР(pdf)</a>
 
 Тема 2. Итераторы
 
