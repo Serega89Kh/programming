@@ -102,6 +102,8 @@
 
 * <a href="https://github.com/Serega89Kh/programming/blob/master/VSR53.md">ВСР</a>
 
+* <a href="https://repl.it/@Serega89Kh/blog#main.py">Блог</a>
+
 ### 6 семестр
 
 Тема 1. Пакеты для научных вычислений (Scikit-learn, Pandas, Numpy)
