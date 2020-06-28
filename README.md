@@ -26,8 +26,6 @@
 
 * <a href="https://github.com/Serega89Kh/py18-10">ЛР18-10</a>
 
-* <a href="">ВСР</a> -
-
 Тема 3. Строки
 
 * <a href="https://docs.google.com/document/d/1k3K7xgQO-Vuf0lYZpUaY1SRomlIv71sofy2ln4d8o5Q">ИСР3.1</a>
@@ -62,7 +60,7 @@
 
 * <a href="">ИСР</a> -
 
-* <a href="">ВСР</a> -
+* <a href="https://repl.it/@Serega89Kh/Decorator">ВСР</a>
 
 Тема 3. Введение в ООП
 
@@ -122,9 +120,9 @@
 
 Тема 3. Разработка графических интерфейсов (GUI)
 
-* <a href="">ИСР</a> -
+* <a href="https://github.com/Serega89Kh/programming/tree/master/6">ИСР</a>
 
-* <a href="">ВСР</a> -
+* <a href="https://github.com/Serega89Kh/programming/blob/master/6/VSR63(TicTacToe).py">ВСР</a>
 
 Тема 4. Виртуальное окружение (virtualenv, pipenv, pyenv)
 
