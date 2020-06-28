@@ -38,7 +38,7 @@
 
 Тема 4. Тестирование
 
-* <a href="https://yadi.sk/i/ph-UjibYs4awrQ">ВСР</a>
+* <a href="https://github.com/Serega89Kh/programming/blob/master/%D0%92%D0%A1%D0%A0%204.1.pdf">ВСР</a>
 
 ### 4 семестр
 
