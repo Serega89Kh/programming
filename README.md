@@ -102,12 +102,6 @@
 
 * <a href="https://github.com/Serega89Kh/programming/blob/master/VSR53.md">ВСР</a>
 
-Тема 4. Построение графиков на Python
-
-* <a href="">ИСР</a> -
-
-* <a href="">ВСР</a> -
-
 ### 6 семестр
 
 Тема 1. Пакеты для научных вычислений (Scikit-learn, Pandas, Numpy)
