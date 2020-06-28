@@ -80,7 +80,7 @@
 
 Тема 1. Модули. Пакеты
 
-* <a href="">ИСР</a> -
+* <a href="https://github.com/Serega89Kh/programming/blob/master/ISR511.md">ИСР1</a>
 
 * <a href="">ВСР</a> -
 
