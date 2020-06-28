@@ -92,15 +92,15 @@
 
 Тема 2. Итераторы
 
-* <a href="">ИСР</a> -
+* <a href="https://repl.it/@Serega89Kh/ISR52">ИСР</a> 
 
-* <a href="">ВСР</a> -
+* <a href="https://repl.it/@Serega89Kh/VSR52">ВСР</a>
 
 Тема 3. Введение в ООА, шаблоны проектирования
 
 * <a href="">ИСР</a> -
 
-* <a href="">ВСР</a> -
+* <a href="https://github.com/Serega89Kh/programming/blob/master/VSR53.md">ВСР</a>
 
 Тема 4. Построение графиков на Python
 
