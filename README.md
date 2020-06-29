@@ -112,3 +112,6 @@
 * <a href="https://github.com/Serega89Kh/programming/blob/master/VSR64.md">ИСР</a>
 
 * <a href="https://github.com/Serega89Kh/programming/blob/master/virtualenv.rar">ВСР</a>
+
+#### <a href="https://repl.it/@Serega89Kh/ZadanieEkz">Дополнительная задача</a>
+
