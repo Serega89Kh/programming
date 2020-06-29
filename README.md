@@ -56,11 +56,9 @@
 
 Тема 2. Декораторы
 
-* <a href="">ЛР5,6</a> -
+* <a href="https://repl.it/@Serega89Kh/Decorator">ИСР</a>
 
-* <a href="">ИСР</a> -
-
-* <a href="https://repl.it/@Serega89Kh/Decorator">ВСР</a>
+* <a href="https://repl.it/@Serega89Kh/VSR42">ВСР</a>
 
 Тема 3. Введение в ООП
 
