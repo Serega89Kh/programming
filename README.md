@@ -109,6 +109,6 @@
 
 Тема 4. Виртуальное окружение (virtualenv, pipenv, pyenv)
 
-* <a href="">ИСР</a> -
+* <a href="https://github.com/Serega89Kh/programming/blob/master/VSR64.md">ИСР</a>
 
 * <a href="https://github.com/Serega89Kh/programming/blob/master/virtualenv.rar">ВСР</a>
