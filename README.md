@@ -68,9 +68,9 @@
 
 Тема 4. Встроенные коллекции
 
-* <a href="">ИСР</a> -
+* <a href="https://repl.it/@Serega89Kh/ISR44">ИСР</a>
 
-* <a href="">ВСР</a> -
+* <a href="https://repl.it/@Serega89Kh/VSR44">ВСР</a>
 
 ### 5 семестр
 
