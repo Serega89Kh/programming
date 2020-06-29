@@ -42,15 +42,7 @@
 
 Тема 1. Обработка исключений
 
-* <a href="">ЛР1</a> -
-
-* <a href="">ЛР2</a> -
-
-* <a href="">ЛР3</a> -
-
-* <a href="">ЛР3.1</a> -
-
-* <a href="">ИСР</a> -
+* <a href="https://repl.it/@Serega89Kh/ISR41#main.py">ИСР</a>
 
 * <a href="">ВСР</a> -
 
