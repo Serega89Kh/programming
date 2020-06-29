@@ -91,7 +91,7 @@
 
 Тема 1. Пакеты для научных вычислений (Scikit-learn, Pandas, Numpy)
 
-* <a href="">ИСР</a> -
+* <a href="https://repl.it/@Serega89Kh/ISR61">ИСР</a>
 
 * <a href="">ВСР</a> -
 
