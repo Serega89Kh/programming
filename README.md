@@ -44,19 +44,12 @@
 
 * <a href="https://repl.it/@Serega89Kh/ISR41#main.py">ИСР</a>
 
-* <a href="">ВСР</a> -
 
 Тема 2. Декораторы
 
 * <a href="https://repl.it/@Serega89Kh/Decorator">ИСР</a>
 
 * <a href="https://repl.it/@Serega89Kh/VSR42">ВСР</a>
-
-Тема 3. Введение в ООП
-
-* <a href="">ИСР</a> -
-
-* <a href="">ВСР</a> -
 
 Тема 4. Встроенные коллекции
 
