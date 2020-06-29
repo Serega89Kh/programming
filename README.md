@@ -93,7 +93,7 @@
 
 * <a href="https://repl.it/@Serega89Kh/ISR61">ИСР</a>
 
-* <a href="">ВСР</a> -
+* <a href="https://repl.it/@Serega89Kh/VSR61">ВСР</a>
 
 Тема 2. Генераторы в Python. Корутины, сопрограммы
 
