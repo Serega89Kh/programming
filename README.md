@@ -111,4 +111,4 @@
 
 * <a href="">ИСР</a> -
 
-* <a href="">ВСР</a> -
+* <a href="https://github.com/Serega89Kh/programming/blob/master/virtualenv.rar">ВСР</a>
