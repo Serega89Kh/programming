@@ -26,7 +26,8 @@
 
 * <a href="https://github.com/Serega89Kh/py18-10">ЛР18-10</a>
 
-* * <a href="https://repl.it/@Serega89Kh/VSR321#main.py">ВСР</a> 
+* <a href="https://repl.it/@Serega89Kh/VSR321#main.py">ВСР</a> 
+
 Тема 3. Строки
 
 * <a href="https://github.com/Serega89Kh/programming/blob/master/ISR331.md">ИСР3.1</a>
