@@ -36,6 +36,8 @@
 
 Тема 4. Тестирование
 
+* <a href="https://repl.it/@Serega89Kh/ISR41#main.py">ВСР</a>
+
 * <a href="https://github.com/Serega89Kh/programming/blob/master/%D0%92%D0%A1%D0%A0%204.1.pdf">ВСР</a>
 
 ### 4 семестр
