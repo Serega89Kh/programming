@@ -126,7 +126,7 @@
 
 * <a href="https://github.com/Serega89Kh/programming/blob/master/VSR64.md">ИСР</a>
 
-* <a href="https://drive.google.com/drive/folders/1iJeruEcCxcYBJomDme42A2YugPNiiQFk">ВСР</a>
+* <a href="https://drive.google.com/drive/folders/1iJeruEcCxcYBJomDme42A2YugPNiiQFk?usp=sharing">ВСР</a>
 
 #### <a href="https://repl.it/@Serega89Kh/ZadanieEkz">Дополнительная задача</a>
 
