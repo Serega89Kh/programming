@@ -4,7 +4,7 @@
 
 Заходим на [официальный сайт Python](https://www.python.org/) и переходим в раздел скачивания. Выбираем нужную операционную систему и версию. Скачиваем.
 
-![Картинка]()
+![Картинка](https://raw.githubusercontent.com/Serega89Kh/programming/master/Scr/Scr1.png?token=AHR2N3KBGBU6OQ6CLKO2L3267ZLZC)
 
 Во время уставновки на свой компьютер, не забудьте поставить галочку у опции "Add Python x to PATH".
 
