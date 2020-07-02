@@ -28,7 +28,7 @@
 
 Тема 3. Строки
 
-* <a href="https://docs.google.com/document/d/1k3K7xgQO-Vuf0lYZpUaY1SRomlIv71sofy2ln4d8o5Q">ИСР3.1</a>
+* <a href="https://github.com/Serega89Kh/programming/blob/master/ISR331.md">ИСР3.1</a>
 
 * <a href="https://repl.it/@Serega89Kh/ISR33">ИСР</a>
 
