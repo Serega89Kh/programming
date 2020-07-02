@@ -51,6 +51,10 @@
 
 * <a href="https://repl.it/@Serega89Kh/VSR42">ВСР</a>
 
+Тема 3. Введение в ООП
+
+* <a href="https://repl.it/@Serega89Kh/VSR43#main.py">ВСР</a>
+
 Тема 4. Встроенные коллекции
 
 * <a href="https://repl.it/@Serega89Kh/ISR44">ИСР</a>
