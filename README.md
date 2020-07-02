@@ -97,7 +97,7 @@
 
 Тема 2. Генераторы в Python. Корутины, сопрограммы
 
-* <a href="">ИСР</a> -
+* <a href="https://repl.it/@Serega89Kh/ISR62#main.py">ИСР</a>
 
 * <a href="https://repl.it/@Serega89Kh/VSR62">ВСР</a>
 
