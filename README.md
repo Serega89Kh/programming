@@ -87,6 +87,11 @@
 
 * <a href="https://repl.it/@Serega89Kh/Grafik">Графики</a>
 
+Тема 4. Построение графиков на Python
+
+* <a href="https://repl.it/@Serega89Kh/ISR54#main.py">ИСР</a>
+
+
 ### 6 семестр
 
 Тема 1. Пакеты для научных вычислений (Scikit-learn, Pandas, Numpy)
